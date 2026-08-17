@@ -67,5 +67,6 @@ Capstones: 01 (after Phase 9) · 02 (after Phase 13) · 03 (after Phase 17) · 0
 |---|---|---|
 | 01 | [DAY-01-LAB-LOG.md](./DAY-01-LAB-LOG.md) | Virtual lab foundation — NAT/host-only networking, VM roles, SSH, snapshots, troubleshooting |
 | 02 | [DAY-02-LAB-LOG.md](./DAY-02-LAB-LOG.md) | Elastic SIEM (Elasticsearch/Kibana) + self-managed Fleet Server + Windows Elastic Agent/Sysmon telemetry + Suricata IDS + first 5-panel SOC dashboard, with full root-cause troubleshooting (Fleet output IP, Kibana encryption keys, stale agent policy, missing Sysmon integration) |
+| 03 | [DAY-03-LAB-LOG.md](./DAY-03-LAB-LOG.md) | Wazuh XDR deployed as a second detection platform on its own dedicated VM, Windows endpoint dual-enrolled alongside the existing Elastic Agent — account/privilege-escalation detection with verified MITRE ATT&CK mapping, File Integrity Monitoring (full add/modify/delete lifecycle), Security Configuration Assessment against the CIS Windows 10 benchmark, and Vulnerability Detection, plus root-cause troubleshooting (a config-editing mistake caught and fixed before it broke the agent, and distinguishing a false-alarm ICMP connectivity issue from real TCP connectivity) |
 
 More logs are added after each lab session.
