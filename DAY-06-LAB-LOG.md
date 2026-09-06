@@ -67,8 +67,6 @@ User: DESKTOP-BN86O9N\Nikola (confirmed via `whoami`)
 - Elastic Agent / Fleet
 - Phase 5 activity loop events as ticket source material
 
-**Note:** an early draft of this phase's write-up guide referenced placeholder environment values (`192.168.56.101` / `.104`, hostname `DESKTOP-3JKM5O9`, user `mmajeed`) that did not match this lab. All values above were reconfirmed live on both VMs before any ticket was written.
-
 ---
 
 # 3. Phase 6 Goal
