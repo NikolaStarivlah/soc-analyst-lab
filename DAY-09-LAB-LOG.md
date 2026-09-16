@@ -1,10 +1,5 @@
 # Phase 9 Detailed Lab Log — Detection Engineering and Rule Tuning
 
-**Author:** Nikola Starivlah
-
-## Status
-**Completed — September 16, 2026**
-
 ## Completion Summary
 
 Phase 9 moved my SOC home lab from manual investigation (Phase 8) into
