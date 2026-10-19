@@ -80,15 +80,12 @@ instructions. It used placeholder identities that do not exist here - the same
 situation as Phases 6 and 12. I followed its scope and finding structure but
 collected the real state of this domain before rating anything.
 
-| Guide value | This lab |
+This lab 
 |---|---|
-| `MAJEED` / `majeed.local` | `NIKOLA` / `nikola.local` |
-| `HTTP/webapp.majeed.local` | `HTTP/webapp.nikola.local` |
-| `mmajeed` (named local admin) | `DESKTOP-BN86O9N\Nikola` (Phase 1 setup account) |
-| `svc_sql` | Does not exist. The same risk (non-expiring service password) was found on `svc_legacy` and `svc_web` |
+`NIKOLA` / `nikola.local` 
+`HTTP/webapp.nikola.local` 
+`DESKTOP-BN86O9N\Nikola` (Phase 1 setup account) |
 
-I did not create `svc_sql` just to remediate it. That would have turned the
-review into a reenactment of someone else's results.
 
 | System | Role | Address |
 |---|---|---|
